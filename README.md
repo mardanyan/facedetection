@@ -1,0 +1,3 @@
+# facedetection
+
+- use AdaBoosting algorithm
