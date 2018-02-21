@@ -1,3 +1,5 @@
 # facedetection
 
-- use AdaBoosting algorithm
+- Use AdaBoosting algorithm
+
+- Implement on python
